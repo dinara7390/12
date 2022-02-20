@@ -1,0 +1,68 @@
+html{
+  box-sizing: border-box;
+  margin-right: 100px;
+  text-align: center;
+}
+
+*.
+*:before
+*:after
+box-sizing: inherit;
+
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0; background-color: #718791;
+}
+
+.container {
+  width: 1140px;
+  margin: auto;
+  color: rgba(253, 249, 0, 0.993);
+/*border: 1px solid red;*/
+}
+.header a {
+  color: rgba(253, 249, 0, 0.993);
+  text-decoration: none;}
+
+
+
+.header-nav {background-color: #174180;
+  padding: 10px 0px;
+  box-shadow: #bb57c2 2px;
+  color: #fff;
+  display: flex;
+  justify-content: space-evenly ;
+  
+}
+
+.menu{
+  margin: 0px;
+  padding: 0px;
+  list-style: none; display: flex;
+}
+.menu-item {
+text-transform: uppercase;
+padding: 0px 15px;
+color: #000;
+}
+
+h1
+{font-size: 30px; text-align: center; font-weight: bold; font-variant: small-caps; color: 
+#718791; text-decoration: underline; 
+}
+p {text-align: center; border: 2px solid: #292727;  width: 500px; height: 200 px; padding: 30px; margin-left: auto;
+    margin-right: auto;; background-color: #f1f50a; box-shadow: 10px 19px 5px 15px rgb(192, 194, 101)}
+    
+    h3{
+      font-size: 34px; 
+      color: cyan;
+      font-weight: bold;
+      font-style: oblique;
+      box-shadow: #bb57c2;
+    }
+   
+    h4 {
+      font-size: 30px;
+      color: rgb(13, 13, 14);
+
+    }
